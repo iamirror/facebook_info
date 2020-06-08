@@ -66,11 +66,11 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     mirror
+    Author     Hak9
     Name       Facebook Information
     Version    Full Version
-    Date       08/06/2020
-   
+    Date       08/04/2019 
+    Jabber     xhak9x@jabber.de
 
 * if you find any errors or problems , please contact
   author
