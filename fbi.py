@@ -66,11 +66,11 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
+    Author     mirror
     Name       Facebook Information
     Version    Full Version
     Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+   
 
 * if you find any errors or problems , please contact
   author
@@ -476,7 +476,7 @@ def menu_reaction_ask():
   try:
 	global type
 
-	cek = raw_input(R + 'Hak9' + W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' >> ')
+	cek = raw_input(R + 'Hack_Fb' + W + '/' + R + 'Bot' + W + '/' + R + 'Reaction' + W + ' >> ')
 
 	if cek in ['1','01']:
 		type = 'LIKE'
