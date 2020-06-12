@@ -18,7 +18,7 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 # [ Installation ]
 ```
 $ apt update && apt upgrade
-$ apt install git python3
+$ apt install git python
 $ git clone https://github.com/iamirror/facebook_info.git
 $ cd fbi
 ```
@@ -29,7 +29,7 @@ $ pip3 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python3 fbi.py
+$ python fbi.py
 ```
 
 
@@ -37,4 +37,5 @@ $ python3 fbi.py
 * [Warn] please turn off your VPN before using this program !!!
 * [Tips] do not overuse this program !!!
 
+Copyrighted with Hak9 @mirror 2020v
 
